@@ -1,13 +1,13 @@
 {
-  "name": "serialport-gsm",
-  "version": "4.0.1",
+  "name": "serialport-connect",
+  "version": "1.0.1",
   "description": "Serialport implementation for GSM commands (send text/flash messages, read, etc.)",
   "main": "lib/",
   "directories": {
     "lib": "lib"
   },
   "dependencies": {
-    "node-pdu": "^1.0.15",
+    "node-pdu": "^2.0.1",
     "serialport": "^10.5.0"
   },
   "devDependencies": {
@@ -22,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zabsalahid/serialport-gsm.git"
+    "url": "git+https://github.com/vumail159951/serialport-connect.git"
   },
   "keywords": [
     "gsm",
@@ -49,7 +49,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zabsalahid/serialport-gsm/issues"
+    "url": "https://github.com/vumail159951/serialport-connect/issues"
   },
-  "homepage": "https://github.com/zabsalahid/serialport-gsm#readme"
+  "homepage": "https://github.com/vumail159951/serialport-connect#readme"
 }
